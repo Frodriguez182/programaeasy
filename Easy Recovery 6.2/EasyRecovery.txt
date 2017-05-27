@@ -1,0 +1,11 @@
+EasyRecovery
+
+
+antes Tiramisu, es un software para reconstruir datos a partir de un disco duro 
+que no funcione por un error grave.
+La idea es sencilla: cuando un disco duro se encuentra muy dañado, pero contiene 
+información vital, EasyRecovery te permite recuperar esa información y copiarla 
+en cualquier otro disco que esté en buen estado.
+
+Recupera datos después de un formateo, archivos individuales, documentos de Office 
+(Access, Word, PowerPoint, Excel), ZIP, mensajes de correo electrónico (Outlook, Outlook Express).
